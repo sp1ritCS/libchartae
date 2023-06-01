@@ -1,0 +1,4 @@
+# meson build artifacts
+_build/
+# cloned subprojects
+subprojects/pango2/
